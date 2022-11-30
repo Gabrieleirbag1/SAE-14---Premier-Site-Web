@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Alegreya+Sans&family=Merriweather&family=Merriweather+Sans&family=Nunito&family=Nunito+Sans&family=Quattrocento&family=Quattrocento+Sans&family=Roboto&family=Roboto+Mono&family=Roboto+Slab&display=swap');
+
+
+h1{
+    font-family: 'Alegreya', serif;
+font-family: 'Alegreya Sans', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Quattrocento', serif;
+font-family: 'Quattrocento Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Roboto Slab', serif;
+
+    text-align: center;
+    color: aliceblue;
+    font-size: 125;
+    text-decoration: underline; 
+    padding-top: 15%;
+     padding-bottom: 30%
+}
+
+a{
+color: aliceblue
+}
+
+h2{
+font-size: 50;
+        text-decoration: underline;  
+    text-align: center;
+}
+
+
+html{
+background-image: url(giphy.gif);
+background-size:contain;
+background-position: center;
+
+}
+
+
+nav a{
+    
+color: red;
+margin-left: 1%
+    
+}
+
+
+p{
+font-size: 18pt;
+
+}
+
+
+p2{
+margin-left: 5%;
+}
+
+p3{
+margin-left: 19%;
+}
+
+p4{
+margin-left: 8%;
+}
+
+article{
+    
+    font-family: 'Alegreya', serif;
+font-family: 'Alegreya Sans', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Quattrocento', serif;
+font-family: 'Quattrocento Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Roboto Slab', serif;
+
+box-sizing: border-box;
+    
+color: aliceblue;
+border-style: double;
+margin: 1.4%;
+background-image: url(fond-bleu-degrade.jpg);
+border-width: 7;
+padding-right: 3%;
+padding-left: 3%;
+padding-bottom: 3%;
+float: right;
+width: 95%
+
+}
+
+
+
+div{
+display: flex;
+justify-content: space-between;
+margin-left: 1%;
+
+
+
+}
+
+aside{
+
+font-family: 'Alegreya', serif;
+font-family: 'Alegreya Sans', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Quattrocento', serif;
+font-family: 'Quattrocento Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Roboto Slab', serif;
+    
+color: aliceblue;
+flex-basis: 120%;
+background-image: url(10762646.jpg);
+background-size: cover; 
+margin-top: 1%;
+margin-bottom: 1%;
+border-style: double;
+border-width: 7;
+text-align: center;
+display: inline-block
+}
+
+section{
+    
+display: inline-block
+}
+
+footer{
+font-family: 'Alegreya', serif;
+font-family: 'Alegreya Sans', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Quattrocento', serif;
+font-family: 'Quattrocento Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Roboto Slab', serif;
+color: aliceblue;
+font-weight: 100;
+text-align: center;
+padding: 5;
+}
+
